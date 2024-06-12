@@ -1,0 +1,2 @@
+-> Structure the folders better
+-> modularize the code
